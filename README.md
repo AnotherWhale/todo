@@ -1,2 +1,2 @@
 # Todo list
-Deployed at https://todo-list-app-five-theta.vercel.app/
+A simple todo list website using React and the todoist API
